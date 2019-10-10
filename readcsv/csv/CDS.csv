@@ -1,0 +1,16 @@
+Name,Description,Ring,Quadrant,is_new
+Istio,Very cool service mesh on K8s,4,Infrastructure,FALSE
+Neo4j,Graph DB,1,Data Management,TRUE
+Cassandra,Biiiiig data,4,Data Management,FALSE
+Cloudfront,AWS component,4,Infrastructure,TRUE
+Java,Your friendly OO language,4,Languages,FALSE
+JavaScript,That other Java,4,Languages,TRUE
+Go,Yes Go Go Go!!!,2,Languages,TRUE
+Kubernetes,We loooove Yaml!,4,Infrastructure,FALSE
+Docker,Not the shoe brand.,4,Infrastructure,TRUE
+CloudFoundry,Soooo 2018!,1,Infrastructure,FALSE
+YaaS,*sniff*,1,Infrastructure,FALSE
+PostgrSQL,Not only relational DB (but mainly),3,Data Management,FALSE
+Node.js,JS Framework,4,Frameworks,TRUE
+Spring,Java Framework,4,Frameworks,FALSE
+SpringBoot,Java Framework,3,Frameworks,TRUE

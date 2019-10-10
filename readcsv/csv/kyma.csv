@@ -1,0 +1,31 @@
+Name;Description;Ring;Quadrant;is_new
+Kubernetes;;4;Infrastructure;FALSE
+NATS;"NATS is an open-source messaging system (sometimes called message-oriented middleware)<a href=""https://nats.io/"">Nats.io</a>";4;Data Management;FALSE
+Istio;;4;Infrastructure;FALSE
+Jaeger;"Monitor and troubleshoot transactions in complex distributed systems. <a href=""https://www.jaegertracing.io/"">Jaeger</a>";4;Data Management;FALSE
+Open Tracing;"Vendor-neutral APIs and instrumentation for distributed tracing. <a href=""https://opentracing.io/"">Open Tracing</a>";4;Frameworks;FALSE
+Loki;"Prometheus-inspired logging for cloud natives. <a href=""https://grafana.com/oss/loki"">Loki</a>";4;Data Management;TRUE
+Luigi;"The Enterprise-Ready Micro Frontend Framework. <a href=""https://luigi-project.io/"">Luigi</a>";4;Frameworks;FALSE
+Go;"Go is an open source programming language that makes it easy to build simple, reliable, and efficient software. <a href=""https://golang.org/"">Go</a>";4;Languages;FALSE
+Docker;;4;Infrastructure;FALSE
+SMI;"A standard interface for service meshes on Kubernetes. <a href=""https://smi-spec.io/"">SMI spec</a>";1;Infrastructure;FALSE
+Linkerd;"Ultralight service mesh for Kubernetes and beyond. <a href=""https://linkerd.io/"">Linkerd</a>";1;Infrastructure;FALSE
+Dynatrace;"Software Intelligence
+for the Enterprise Cloud. <a href=""https://www.dynatrace.com/"">dynatrace</a>";3;Data Management;FALSE
+Graphql;"A query language for your API. <a href=""https://graphql.org/"">GraphQL</a>";4;Frameworks;TRUE
+Service Catalog;"lets you provision cloud services directly from the comfort of native Kubernetes tooling. <a href=""https://svc-cat.io/"">Service Catalog</a>";4;Infrastructure;FALSE
+Knative;"Kubernetes-based platform to build, deploy, and manage modern serverless workloads. <a href=""https://knative.dev/"">Knative.Dev</a>";4;Infrastructure;TRUE
+Google PubSub;"Cloud Pub/Sub brings the flexibility and reliability of enterprise message-oriented middleware to the cloud. <a href=""https://cloud.google.com/pubsub/docs/overview"">Google PubSub</a>";3;Data Management;TRUE
+Helm;"The package manager for Kubernetes. <a href=""https://helm.sh/"">Helm</a>";4;Infrastructure;FALSE
+Dex;"A federated OpenID Connect provider. <a href=""https://github.com/dexidp/dex"">Dex</a>";4;Infrastructure;FALSE
+Grafana;"The open platform for beautiful
+analytics and monitoring. <a href=""https://grafana.com/"">Grafana</a>";4;Infrastructure;FALSE
+Prometheus;"Power your metrics and alerting with a leading
+open-source monitoring solution. <a href=""https://prometheus.io/"">Prometheus</a>";4;Data Management;FALSE
+Kubebuilder;"A framework for building Kubernetes APIs using custom resource definitions (CRDs). <a href=""https://book.kubebuilder.io/"">Kubebuilder Book</a>";3;Frameworks;TRUE
+Open Service Broker API;"Connects developers to a global ecosystem of Services. <a href=""https://www.openservicebrokerapi.org/"">OSB API</a>";4;Frameworks;FALSE
+nginx;"High Performance Load Balancer,Web Server and Reverse Proxy. <a href=""https://www.nginx.com/"">Nginx</a>";1;Infrastructure;FALSE
+Kubeless;"The Kubernetes Native Serverless Framework. <a href=""https://kubeless.io/"">Kubeless</a>";1;Infrastructure;FALSE
+Prow;"Prow is a Kubernetes based CI/CD system. <a href=""https://github.com/kubernetes/test-infra/tree/master/prow"">Prow</a>";4;Infrastructure;FALSE
+kind;"Kubernetes IN Docker - local clusters for testing Kubernetes. <a href=""https://kind.sigs.k8s.io/"">Kind</a>";2;Infrastructure;TRUE
+Gloo;"An Envoy-Powered API Gateway. <a href=""https://gloo.solo.io/"">Gloo</a>";1;Infrastructure;TRUE

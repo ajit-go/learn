@@ -1,0 +1,12 @@
+Name;Description;Ring;Quadrant;is_new
+C++;;4;Languages;FALSE
+Docker;;4;Infrastructure;FALSE
+GCP;;4;Infrastructure;FALSE
+GCR;;4;Infrastructure;FALSE
+Go;;4;Languages;FALSE
+Helm;;4;Infrastructure;FALSE
+Istio;;4;Infrastructure;FALSE
+Jenkins;;4;Infrastructure;FALSE
+Kubernetes;;4;Infrastructure;FALSE
+Kyma;;4;Infrastructure;TRUE
+Slack;;4;Infrastructure;FALSE

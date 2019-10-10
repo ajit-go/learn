@@ -1,0 +1,16 @@
+Name;Description;Ring;Quadrant;is_new
+Bash;;4;Languages;FALSE
+Docker;;4;Infrastructure;FALSE
+Dynatrace;;3;Data Management;FALSE
+GCP;;4;Infrastructure;FALSE
+GCR;;4;Infrastructure;FALSE
+Go;;4;Languages;FALSE
+Helm;;4;Infrastructure;FALSE
+Istio;;4;Infrastructure;FALSE
+Jenkins;;4;Infrastructure;FALSE
+Typescript;;4;Languages;FALSE
+Kubernetes;;4;Infrastructure;FALSE
+Kyma;;4;Infrastructure;TRUE
+Node.js;;4;Frameworks;FALSE
+npm;;4;Utilities;FALSE
+Slack;;4;Infrastructure;FALSE
